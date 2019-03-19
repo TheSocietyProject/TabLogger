@@ -1,0 +1,6 @@
+name: "TabLoggerPlugin"
+description: "The information that is given on the tab page is saved here"
+authors:
+  - "IronException"
+version: "1.0" # version of ur plugin
+mainClass: "Main" # CaSe SeNsItIvE
